@@ -11,7 +11,7 @@ public class DinosaurSupervisor {
         Dinosaur velociraptor2 = new Dinosaur();
         t_rex.roar();
         velociraptor.roar();
-        velociraptor2.roar();
+
     }
 
 
